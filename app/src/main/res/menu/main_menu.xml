@@ -2,15 +2,11 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
         <item
-            android:id="@+id/Them"
-            android:title="Thêm"/>
-
-        <item
-            android:id="@+id/Xoa"
+            android:id="@+id/mnXoa"
             android:title="Xóa"/>
 
         <item
-            android:id="@+id/Sua"
+            android:id="@+id/mnSua"
             android:title="Sửa"/>
 
 </menu>
