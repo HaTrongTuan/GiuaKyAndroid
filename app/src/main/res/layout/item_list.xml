@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:padding="10dp">
     <ImageView
-        android:id="@+id/imgThumb"
+        android:id="@+id/imvThumb"
         android:layout_width="98dp"
         android:layout_height="128dp"/>
 
@@ -18,7 +18,7 @@
 
 
         <TextView
-            android:id="@+id/txMaSp"
+            android:id="@+id/txtMaSp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="18sp"
