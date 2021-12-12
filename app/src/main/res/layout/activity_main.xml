@@ -21,12 +21,15 @@
     <ListView
         android:id="@+id/lvSanpham"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="600dp"
         android:layout_marginTop="20dp"/>
 
     <Button
+        android:id="@+id/btnThem"
+        android:drawableLeft="@drawable/ic_baseline_add_24"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:text="Thêm sản phẩm"/>
 
 
 </LinearLayout>
